@@ -1,0 +1,7 @@
+body {
+	margin: 55px;
+	background-image: url(backgroundone.jpeg);
+	text-align: center;
+	font-size: 1.2em 1.4em;
+	 
+}

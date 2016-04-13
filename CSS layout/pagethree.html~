@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="styletwo.css"/>
+<title>CSS assignment</title>
+</head>
+<body>
+	<div id="container">
+		<div id="header">
+			<h2>Welcome to the first page of the CSS assignment</h2>	
+		</div>
+		<div id="navigation" >
+			<nav>
+			<ul class="list">
+				<li><a href="pageone.html">Home</a></li>
+				<li><a href="pagetwo.html">page two</a></li>
+				<li><a href="pagethree.html">page three</a></li>
+			</ul>
+			</nav>
+		</div>
+
+		<div id="footer">
+			<div id="copywright">			
+			<p>&copy; Thirsa de Boer</p>
+			</div>
+			<nav>
+				<ul class="list">				
+					<li><a href="pageone.html">Home</a></li>
+					<li><a href="pagetwo.html">page two</a></li>
+					<li><a href="pagethree.html">page three</a></li>
+				</ul>
+			</nav>
+		</div>
+	</div>
+</body>
+</html>

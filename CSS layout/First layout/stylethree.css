@@ -1,0 +1,84 @@
+body {
+	background-color: #6a6a6a;
+	font: ;
+/*I still have to actually put in a font family....*/
+}
+#container {
+	background-image: url(backgroundtwo.jpeg);
+	margin: 1%;
+	height: 840px;
+	border: 3px solid #6a6a6a;
+}
+#header {
+	color: white;
+	text-align: center;	
+	padding: 10px;
+	border-bottom: 3px solid #6a6a6a;
+	margin-left: 4%;
+	margin-right: 4%;
+}
+#navigation {
+	margin-left:0;
+	margin-right: 0;
+	margin-top: 2%;
+	height: 40px;
+}
+#navigation nav ul li{float: left;}
+#navigation ul {margin:0;color: white;}
+#navigation a{width: 365px;
+	display: block;
+	text-align: center;
+	line-height: 40px;
+	color: white;
+	text-decoration: none;
+	border:3px solid #6a6a6a;
+	margin-left: 2%;
+	margin-right: 2%
+}
+
+#navigation a:hover {background-color: white;color: black;}
+
+#content {height: 500px;
+	margin: 3%;
+	margin-left: 4%;
+	margin-right: 4%;
+	text-align: center;
+	overflow: auto;
+	padding: 5px;
+	border: 3px solid #6a6a6a;	
+}
+#content .image{height: 200px; 
+	width: 210px;
+	margin: 5px;
+	float: left;
+	float: ;
+}
+#content img:hover{border: 2px solid black}
+
+#content .img {height: 100%;
+	width: 100%;
+	border: 1px solid black
+}
+
+#footer {
+	color: white;
+	padding:2px;
+	margin-top: ;
+	margin-left: 4%;
+	margin-right: 4%;
+	font-size: 12px;
+	border-top:3px solid #6a6a6a;
+}
+#footer p {;text-align: right;}
+#footer li{text-align: left;margin-top:0;}
+#footer a {color: white;text-decoration: none;}
+#footer nav ul {padding-left: 10px;}
+
+#copyright {;text-align: right;width: 150px; float: right;padding-right:5px }
+
+/*<!--this makes all the href links go bold when you hover over them-->*/
+a:hover {font-weight: bold;} 
+
+/*<!--this removes the bulletpoints from all the href links-->*/
+ul{list-style-type: none} 
+

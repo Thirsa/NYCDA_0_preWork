@@ -1,0 +1,102 @@
+body {
+	background-color: #6a6a6a;
+	font: ;
+/*I still have to actually put in a font family....*/
+}
+#container {
+	background-image: url(backgroundtwo.jpeg);
+	margin: 1%;
+	height: 840px;
+	border: 3px solid #6a6a6a;
+}
+#header {
+	color: white;
+	text-align: center;	
+	padding: 10px;
+	border-bottom: 3px solid #6a6a6a;
+	margin-left: 4%;
+	margin-right: 4%;
+}
+#navigation {
+	margin-left:0;
+	margin-right: 0;
+	margin-top: 2%;
+	height: 40px;
+}
+#navigation nav ul li{float: left;}
+#navigation ul {margin:0;color: white;}
+#navigation a{width: 365px;
+	display: block;
+	text-align: center;
+	line-height: 40px;
+	color: white;
+	text-decoration: none;
+	border:3px solid #6a6a6a;
+	margin-left: 2%;
+	margin-right: 2%
+}
+#navigation a:hover {background-color: white;color: black;}
+
+#one {
+	color: grey;
+	float: left;
+	width: 340px;
+	height: 300px;		
+	margin-left: 4%;
+	margin-top: 3%;
+	border: 3px solid #6a6a6a;
+	padding: 5px;
+	text-align: center;
+}
+#one1 {color: blue;font-size: 50px}
+
+#two {
+	color: grey;
+	float: right;
+	width: 340px;
+	height: 500px;		
+	margin-top: 3%;
+	margin-right: 4%;
+	border: 3px solid #6a6a6a;
+	padding: 5px;
+	text-align: center;
+}
+#two3 {color: red; font-size: 50px;}
+
+#three {
+	color: grey;
+	float:;
+	width: 340px;
+	height: 400px;	
+	margin-top: 3.6%;	
+	margin-left: auto;
+	margin-right: auto;
+	border: 3px solid #6a6a6a;
+	padding: 5px;
+	text-align: center;
+}
+#three2 {color:yellow; font-size: 50px;}
+
+#footer {
+	color: white;
+	padding:2px;
+	margin-top: 10.5%;
+	margin-left: 4%;
+	margin-right: 4%;
+	font-size: 12px;
+	border-top:3px solid #6a6a6a;
+	clear: both;
+}
+#footer p {;text-align: right;}
+#footer li{text-align: left;margin-top:0;}
+#footer a {color: white;text-decoration: none;}
+#footer nav ul {padding-left: 10px;}
+
+#copyright {;text-align: right;width: 150px; float: right;padding-right:5px }
+
+/*<!--this makes all the href links go bold when you hover over them-->*/
+a:hover {font-weight: bold;} 
+
+/*<!--this removes the bulletpoints from all the href links-->*/
+ul{list-style-type: none} 
+

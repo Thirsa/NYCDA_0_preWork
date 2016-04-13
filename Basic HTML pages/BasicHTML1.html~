@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<html>
+<style>
+#all {
+		background-color:green;
+}
+</style>
+<div id="all">
+<center>
+<head>
+<title>Dummy page</title>
+<h1>First dummy page</h1>
+<h2>header number 2</h2>
+<h3>and now header number three</h3>
+</head>
+<hr>
+</center>
+<body>
+<p>
+<h4>Paragraph one</h4>
+here goes the text of the first paragraph</p>
+<p>
+<center>
+<h4>Paragraph two</h4> here goes the text of the second paragraph
+<br>
+Here there is also a <strong> picture </strong> included as you can see below
+<br><br>
+<a href="http://forums.psychcentral.com/bipolar/241597-crash-pest-dummy.html" title="Go to the source page of the picture"><img src="download (2).jpg" alt="a dummy"></a>
+</p>
+<p>
+</center>
+<h4>Paragraph three</h4>
+Here goes text of the <em>third</em> paragraph
+<br>
+if you click <a href="BasicHTML2.html"> here </a> you will be directed to the second page
+</p>
+</body>
+</div>
+</html>

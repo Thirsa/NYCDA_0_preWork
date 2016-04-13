@@ -1,0 +1,91 @@
+<!doctype html>
+
+<html>
+<head>
+<style>
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+
+#nav {
+    background-color:black
+    color:white;
+    float:left    
+}
+
+#body{
+    background-color:green;
+    color:white;
+    text-align:center;
+}
+
+#footer {
+    background-color:black;
+    color:white;
+    text-align:center
+}
+</style>
+
+<div id="header"><title> My second webpage ever </title>
+<center>
+  <h1> I actually hated making my first ever webpage </h1> 	
+  <h2> Now I'm making my second one for the NYCDA course! </h2>
+  <h4> So, let's test my skills... </h4>
+</center>
+</head>
+</div>
+
+<div id="body">
+<hr />
+<body>
+<h3> About me </h3>
+<p> You can find my "Resume" <a href = "my Resume.html"> here </a> on this page if you're interested... </p>
+<p> And I can also tell you a little bit about myself.
+  <br /> 
+  <br />
+  Now I love dancing salsa, as you can see in the video below <br/><br/>
+<!--so, i still have to figure out how to get a working video-->
+   <video hight="330" width="450" controls>
+     <source src="video_2015-07-09T06.08.08.mp4" type="video/mp4">
+     <source src="video_2015-07-09T06.08.08.ogg" type="video/ogg"> 
+   </video>
+   <br />
+   <br />
+   <strong> And I also like other things like: </strong>
+</p>
+    
+<p> driving cars while pretending to be a spy,
+  <br />
+  <br />
+  <a href="IMG-20130816-WA0006.jpg" title="View image in fullsize"> <img src="IMG-20130816-WA0006.jpg" width="150" length="150"> </a>
+  <br /> 
+  <br />
+  Food! I definitely love food!
+  <br />
+  <br />
+  <img src="IMG-20140201-WA0000.jpg" width="150" length="150">
+  <br /> 
+  <br />
+  Some non competitive Brazilian Jiu Jitsu
+  <br />
+  <br />
+  <img src="IMG-20140131-WA0000.jpg" width="150" hight="150">
+  <br /> 
+  <br />
+  And a good cup of coffee :)
+  <br />
+  <br />
+  <img src="IMG-20140301-WA0000.jpg" width="150" length="150"></p> 
+</p>
+</body>
+</div>
+
+<footer>
+<div id="footer">
+<p> copyright Thirsa</p>
+</div>
+</footer>
+</html>

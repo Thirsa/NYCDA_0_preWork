@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="styleone.css"/>
+<title>CSS assignment</title>
+</head>
+<body>
+	<div id="container">
+		<div id="header">
+			<h2>Welcome to the first page of the CSS assignment</h2>	
+		</div>
+		<div id="navigation" >
+			<nav>
+			<ul class="list">
+				<li><a href="pageone.html" title="Homepage">Home</a></li>
+				<li><a href="pagetwo.html" title="click to see three columns!">Page two</a></li>
+				<li><a href="pagethree.html" title="click to see my gallery!">Gallery</a></li>
+			</ul>
+			</nav>
+		</div>
+		<div id="footer">
+			<div id="copyright">			
+			<p>&copy; Thirsa de Boer</p>
+			</div>
+			<nav>
+				<ul class="list">				
+					<li><a href="pageone.html">Home</a></li>
+					<li><a href="pagetwo.html">Page two</a></li>
+					<li><a href="pagethree.html">Page three</a></li>
+				</ul>
+			</nav>
+		</div>
+	</div>
+</body>
+</html>
